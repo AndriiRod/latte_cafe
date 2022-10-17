@@ -45,3 +45,26 @@
   font-size: 24px;
   color: #c67a88;
 }
+.about {
+  height: 713px;
+  padding-top: 220px;
+}
+.about-title {
+  font-family: 'Azeret Mono';
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 22px;
+  text-align: center;
+  color: #222222;
+}
+.about-description {
+  width: 869px;
+  font-size: 32px;
+  line-height: 45px;
+  text-align: center;
+  color: #222222;
+  margin: 0 auto;
+}
+.italic {
+  font-style: italic;
+}
