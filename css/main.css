@@ -79,8 +79,6 @@
   display: flex;
   justify-content: space-between;
 }
-.left {
-}
 .menu-title {
   font-family: 'Azeret Mono';
   font-size: 18px;
@@ -142,4 +140,21 @@
   line-height: 36px;
   text-align: center;
   color: #ffffff;
+}
+.showcase {
+  height: 912px;
+  padding-top: 152px;
+}
+.showcase-wrapper {
+  width: 1328px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 0 auto;
+}
+.image-wrapper {
+  width: 644px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
 }
